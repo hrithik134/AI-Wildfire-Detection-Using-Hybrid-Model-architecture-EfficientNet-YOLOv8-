@@ -117,7 +117,7 @@ Hrithik (Project Lead): [GitHub Profile](https://github.com/hrithik134)
 Vignesh : https://github.com/rockyvicky123
 
 ### 📄 License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ### Future Improvements
 1. Multi-camera Integration: Expand the system to handle multiple video feeds for broader coverage.
