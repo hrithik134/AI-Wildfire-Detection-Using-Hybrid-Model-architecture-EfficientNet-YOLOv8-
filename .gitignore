@@ -1,0 +1,29 @@
+# Ignore virtual environments
+wildfire-env/
+
+# Ignore datasets and folders
+data/
+dataset/
+dataset-classification/
+dataset-conv/
+*.zip
+*.tar
+*.tar.gz
+*.h5
+*.pkl
+*.pt
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore custom folders with spaces or special characters
+"2 fig part 2"/
+2figpart2/
+"3-fig part 1"/
+barchart/
+tvs/

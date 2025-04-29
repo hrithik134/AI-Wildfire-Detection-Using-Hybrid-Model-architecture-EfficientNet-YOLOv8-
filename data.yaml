@@ -1,0 +1,6 @@
+train: D:/AI wildfire/dataset/train/images
+val: D:/AI wildfire/dataset/valid/images
+test: D:/AI wildfire/dataset/test/images
+
+nc: 3
+names: ['fire', 'smoke', 'non-fire']
